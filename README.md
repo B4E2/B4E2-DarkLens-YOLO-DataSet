@@ -1,6 +1,6 @@
 # B4E2-DarkPattern-YOLO-DataSet
 
-# 🇰🇷 Korean Dark Pattern Recognition Dataset
+# Korean Dark Pattern Recognition Dataset
 
 Hello! 👋  
 We are **Team B4E2 (Lee Donghun, Kim Yubin, Jang Seyoung, Jeon Sukyung, Jung Jaewoong, Choi Sunghoon)** from the **BoB 14th Next-Generation Security Leader Program – Security Consulting Track**.
