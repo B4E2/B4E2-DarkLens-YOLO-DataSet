@@ -1,4 +1,4 @@
-# B4E2-DarkPattern-YOLO-DataSet
+# B4E2-DarkLens-YOLO-DataSet
 
 Hello! 👋  
 We are **Team B4E2 (Lee Donghun, Kim Yubin, Jang Seyoung, Jeon Sukyung, Jung Jaewoong, Choi Seonghun)** from the **BoB 14th Next-Generation Security Leader Program – Security Consulting Track**.
